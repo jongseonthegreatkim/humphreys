@@ -36,10 +36,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   webview_flutter: ^4.2.2 # webview를 위해서
-  google_maps_flutter: # google map api를 위해서
+  google_maps_flutter: ^2.12.3 # google map api를 위해서
   geolocator: # 현재위치를 받아오기 위해서
-  firebase_core: # 노선, 정류장 정보를 외부 데이터베이스(firestore)에 저장하기 위해서.
-  cloud_firestore: # 노선, 정류장 정보를 외부 데이터베이스(firestore)에 저장하기 위해서.
+  firebase_core: ^4.0.0
+  cloud_firestore: ^6.0.0
 
 dev_dependencies:
   flutter_test:

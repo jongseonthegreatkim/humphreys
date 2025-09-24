@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "245291959182",
-    "project_id": "humphreys-firebase",
-    "storage_bucket": "humphreys-firebase.appspot.com"
+    "project_number": "332684033159",
+    "project_id": "new-humph",
+    "storage_bucket": "new-humph.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:245291959182:android:fd45fe66f4a841b9d21adf",
+        "mobilesdk_app_id": "1:332684033159:android:dafee62ae03fecd8c18c22",
         "android_client_info": {
           "package_name": "com.example.humphreys"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "245291959182-hj3j8g8sbparj147dckc87t05cpsf4e8.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCvCeGR94z5Rt6yTVHCHLefVRi5R7CDc38"
+          "current_key": "AIzaSyDQ8lzpCo27FXgFkN0aKow_pvIMrnTpwbs"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "245291959182-hj3j8g8sbparj147dckc87t05cpsf4e8.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
